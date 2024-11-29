@@ -21,8 +21,15 @@ If you need to use venv, run `src/start.sh` instead of `src/cmov.py`. This will 
 * avi
 * mov
 * wmv
-* flv
+* flv/f4v
 * mpg/mpeg
+* gif
+* webm
+* 3gp/3g2
+* avi
+* wmv
+* yuv
+* m4v
 
 ## License 
 MIT no-attribution
